@@ -1,0 +1,33 @@
+ <!---link to boxicon-->   
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+<i class='bx bxs-edit'></i>
+
+ <!--link to font-awesome--->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+.btn{
+    display:block;
+    width: 100%;
+    cursor: pointer;
+    border-radius: .5rem;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    padding:1rem 3rem;
+    background: var(--green);
+    color: var(--white);  
+    text-align: center;
+}
+
+
+/*.back-btn{
+    display: block;
+    width: 90%;
+    cursor: pointer;
+    border-radius: .5rem;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    padding:1rem 3rem;
+    background: var(--green);
+    color: var(--white);  
+    text-align: center;
+}*/
